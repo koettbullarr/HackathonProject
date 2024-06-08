@@ -43,7 +43,7 @@ The Flask API can be accessed to classify text programmatically. Send a POST req
 An analysis of the model's accuracy, including testing results with precision, recall, and confusion matrix metrics, is provided in the `analysis` folder.
 
 ## Special Thanks
-Special thanks to Hashym, my very good friend, for participating with me and contributing to this project! I appreciate your efforts! [@uulu](https://github.com/uulu)
+Special thanks to Hashym, my very good friend, for participating with me and contributing to this project! I appreciate your efforts! [@UluuGashim048](https://github.com/UluuGashim048)
 
 ## Acknowledgements
 We would like to thank Sustainista for organizing the hackathon and providing the necessary resources and support.
