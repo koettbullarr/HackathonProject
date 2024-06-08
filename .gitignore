@@ -6,8 +6,9 @@ data_newsv2/
 
 model.zip
 model/
-data/collection_of_news.csv
-data/collection_of_news.csv.zip
+src/data/collection_of_news.csv
+Src/data/collection_of_news.csv.zip
+model.tar.gz
 
 
 
